@@ -1,4 +1,4 @@
-1. Finish Project and understand code add the extra features.
+1. Finish Project and understand code add the extra features. - done
 2. Read docs.
 3. Try to connect to Project.
 4. Learn PostGress.
